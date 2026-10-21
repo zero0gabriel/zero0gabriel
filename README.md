@@ -1,4 +1,5 @@
-![Uploading konata-izumi-lucky-star.gif…]()
+<img width="374" height="374" alt="konata-izumi-lucky-star" src="https://github.com/user-attachments/assets/d7de1fbe-5343-4ca8-903d-125c00fccde0" />
+
 <p align="center">
   <code>&gt; One line at a time.</code>
 </p>
