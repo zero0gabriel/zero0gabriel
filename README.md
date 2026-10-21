@@ -1,5 +1,4 @@
-![Konata Izumi](https://media1.tenor.com/m/3b5k2mBw818AAAAC/konata-izumi-lucky-star.gif)
-<h1 aign="center">Gabriel | ~/developer</h1>
+<img src="https://media.tenor.com/SeuLinkAqui.gif" width="250" alt="Konata Izumi"><h1 aign="center">Gabriel | ~/developer</h1>
 
 <p align="center">
   <code>&gt; One line at a time.</code>
