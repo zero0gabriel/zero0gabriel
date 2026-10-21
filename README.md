@@ -36,4 +36,4 @@ Hey! I'm **Gabriel** 👋
     <img src="https://img.shields.io/badge/GitHub-121212?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
 </p>
-<img width="467" height="498" alt="gif-lucky-star (1)" src="https://github.com/user-attachments/assets/3344b3a1-cb28-4bd2-823c-9e1cb547fd51" />
+<img width="100%" height="140" alt="gif-lucky-star (1)" src="https://github.com/user-attachments/assets/3344b3a1-cb28-4bd2-823c-9e1cb547fd51" />
