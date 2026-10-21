@@ -1,34 +1,36 @@
-<div align="center">
+<h1 align="center">Gabriel | ~/developer</h1>
 
-  <!-- COLE AQUI O LINK DO SEU GIF QUE VOCÊ SUBIU ANTES (ex: ![gif](link) ou a tag img) -->
-  <img src="COLE_O_LINK_DO_SEU_GIF_AQUI" width="650" alt="Anime Hacker GIF" style="border-radius: 12px;" />
+<p align="center">
+  <code>&gt; One line at a time.</code>
+</p>
 
-  # ⚡ GABRIEL // SYSTEM.INIT ⚡
-
-  <code>&gt; Current Status: Leveling up Python one line at a time.</code>
-
-  <p align="center">
-    <img src="https://img.shields.io/badge/LEVEL-1-00ff66?style=for-the-badge&logo=appveyor&logoColor=black" alt="Level">
-    <img src="https://img.shields.io/badge/CLASS-PYTHON_NOVICE-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-    <img src="https://img.shields.io/badge/MODE-DARK_HACKER-121212?style=for-the-badge&logo=github&logoColor=white" alt="Mode">
-  </p>
-
-</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/STATUS-LEARNING-00ff66?style=flat-square&logo=appveyor" alt="Status">
+  <img src="https://img.shields.io/badge/MAIN_LANGUAGE-PYTHON-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/THEME-DARK_MODE-121212?style=flat-square&logo=github&logoColor=white" alt="Dark Mode">
+</p>
 
 ---
 
-## 🖥️ `> whoami`
+## <code>$ whoami</code>
+
+Hey! I'm **Gabriel** 👋
+
+* 🚀 Student exploring the world of programming.
+* 🌱 Currently building my foundations in **Python** (and exploring HTML/CSS).
+* 💻 Interested in technology, problem-solving, and creating things with code.
+* 📈 Learning step by step, improving with every line of code.
 
 ```python
 class Gabriel:
     def __init__(self):
-        self.alias = "zero0gabriel"
-        self.class_type = "Python Developer (In Training)"
-        self.current_quest = "Mastering Programming Logic & Fundamentals"
-        self.status = "Grinding daily"
-        
-    def execute_routine(self):
-        return "Learn -> Code -> Debug -> Repeat 🚀"
+        self.role = "Student & Beginner Developer"
+        self.learning = ["Python", "HTML", "CSS"]
+        self.interests = ["Programming", "Technology"]
+        self.goal = "Keep learning and build useful projects"
 
-player = Gabriel()
-print(player.execute_routine())
+    def mindset(self):
+        return "Learn. Build. Experiment. Repeat."
+
+me = Gabriel()
+print(me.mindset())
