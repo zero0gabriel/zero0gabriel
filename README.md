@@ -21,16 +21,23 @@ Hey! I'm **Gabriel** 👋
 * 💻 Interested in technology, problem-solving, and creating things with code.
 * 📈 Learning step by step, improving with every line of code.
 
-```python
-class Gabriel:
-    def __init__(self):
-        self.role = "Student & Beginner Developer"
-        self.learning = ["Python", "HTML", "CSS"]
-        self.interests = ["Programming", "Technology"]
-        self.goal = "Keep learning and build useful projects"
+---
 
-    def mindset(self):
-        return "Learn. Build. Experiment. Repeat."
+## <code>$ tech_stack</code>
 
-me = Gabriel()
-print(me.mindset())
+### Currently learning & exploring:
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
+</p>
+
+---
+
+## <code>$ connect</code>
+
+<p>
+  <a href="https://github.com/zero0gabriel" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-121212?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+</p>
