@@ -1,5 +1,4 @@
 ![Uploading konata-izumi-lucky-star.gif…]()
-
 <p align="center">
   <code>&gt; One line at a time.</code>
 </p>
