@@ -1,3 +1,4 @@
+<img width="500" height="280" alt="Hunter X Hunter GIF" src="https://github.com/user-attachments/assets/6e203344-7cae-468b-bc5b-241e576a0b47" />
 <h1 align="center">✨ Gabriel | ~/cyber_developer ✨</h1>
 
 <p align="center">
