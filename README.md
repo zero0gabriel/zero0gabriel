@@ -1,36 +1,40 @@
-<h1 align="center">Gabriel | ~/developer</h1>
+<h1 align="center">✨ Gabriel | ~/cyber_developer ✨</h1>
 
 <p align="center">
-  <code>One line at a time.</code>
+  <img src="https://i.pinimg.com/originals/9f/62/0e/9f620e1075677e5e0161406859e87515.gif" width="600" alt="Anime Coding Aesthetic">
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/STATUS-LEARNING-00ff66?style=flat-square&logo=appveyor" alt="Status">
-  <img src="https://img.shields.io/badge/MAIN_LANGUAGE-PYTHON-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/THEME-DARK_MODE-121212?style=flat-square&logo=github&logoColor=white" alt="Dark Mode">
+  <code>"Leveling up one line of code at a time..."</code>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/CLASS-PYTHON_NOVICE-ff79c6?style=for-the-badge&logo=python&logoColor=white" alt="Class">
+  <img src="https://img.shields.io/badge/QUEST-BUILDING_BASICS-bd93f9?style=for-the-badge&logo=appveyor" alt="Quest">
+  <img src="https://img.shields.io/badge/MODE-DARK_CYBER-8be9fd?style=for-the-badge&logo=github&logoColor=black" alt="Mode">
 </p>
 
 ---
 
-## <code>> whoami</code>
+## ⛩️ <code>> character_profile</code>
 
-Hey! I'm Gabriel 👋
+Hey! I'm **Gabriel** 👋 
 
-* 🚀 Student exploring the world of programming.
-* 🌱 Currently learning Python and building my programming foundations.
-* 💻 Interested in technology, problem-solving, and creating things with code.
-* 📈 Learning step by step, improving with every project.
+* 🎮 **Role:** Student / Trainee Developer
+* 📜 **Current Main Quest:** Learning Python fundamentals and logic.
+* 🔮 **Passions:** Technology, anime aesthetics, and solving problems through code.
+* ⚡ **Status:** Daily grinding to unlock new skills.
 
 ```python
-class Gabriel:
+class Character:
     def __init__(self):
-        self.role = "Student & Beginner Developer"
-        self.learning = ["Python"]
-        self.interests = ["Programming", "Technology"]
-        self.goal = "Keep learning and build useful projects"
+        self.name = "Gabriel"
+        self.type = "Python Student"
+        self.inventory = ["Python", "Motivation"]
+        self.goal = "Master programming logic and create awesome projects"
 
-    def mindset(self):
-        return "Learn. Build. Experiment. Repeat."
+    def power_up(self):
+        return "Study -> Practice -> Code -> Repeat ✨"
 
-me = Gabriel()
-print(me.mindset())
+player = Character()
+print(player.power_up())
