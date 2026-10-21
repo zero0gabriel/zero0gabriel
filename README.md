@@ -1,7 +1,7 @@
 <h1 align="center">✨ Gabriel | ~/cyber_developer ✨</h1>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/Developer/developer.gif" width="500" alt="Anime Coding Aesthetic">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHp1bnprenMxdmsyc3gwbWhzandrbG9kOHFpazNrb2x5a3Y1Z3llbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svvIWwpVYz/giphy.gif" width="500" alt="Anime Chill Coding">
 </p>
 
 <p align="center">
