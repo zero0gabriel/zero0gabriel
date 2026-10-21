@@ -1,5 +1,4 @@
-<img width="100%" height="180" alt="konata-izumi-lucky-star" src="https://github.com/user-attachments/assets/d7de1fbe-5343-4ca8-903d-125c00fccde0" /></p>
-
+<img width="100%" height="140" alt="konata-izumi-lucky-star" src="https://github.com/user-attachments/assets/d7de1fbe-5343-4ca8-903d-125c00fccde0" />
 <p align="center">
   <img src="https://img.shields.io/badge/STATUS-LEARNING-00ff66?style=flat-square&logo=appveyor" alt="Status">
   <img src="https://img.shields.io/badge/MAIN_LANGUAGE-PYTHON-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
