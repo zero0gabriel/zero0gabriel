@@ -1,4 +1,4 @@
-<img src="https://media.tenor.com/SeuLinkAqui.gif" width="250" alt="Konata Izumi"><h1 aign="center">Gabriel | ~/developer</h1>
+![Uploading konata-izumi-lucky-star.gif…]()
 
 <p align="center">
   <code>&gt; One line at a time.</code>
