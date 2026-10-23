@@ -11,10 +11,10 @@
 
 Hey! I'm **Gabriel** 👋
 
-* 🚀 Student exploring the world of programming.
-* 🌱 Currently building my foundations in **Python** (and exploring HTML/CSS).
-* 💻 Interested in technology, problem-solving, and creating things with code.
-* 📈 Learning step by step, improving with every line of code.
+- 🚀 Student exploring the world of programming.
+- 🌱 Currently building my foundations in **Python** (and exploring Streamlit).
+- 💻 Interested in technology, problem-solving, and creating things with code.
+- 📈 Learning step by step, improving with every line of code.
 
 ---
 
@@ -23,8 +23,7 @@ Hey! I'm **Gabriel** 👋
 ### Currently learning & exploring:
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit">
 </p>
 
 ---
